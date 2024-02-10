@@ -1,0 +1,75 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What does a yellow traffic light indicate?",
+        "options": ["Stop", "Proceed with caution", "Speed up", "Reverse"],
+        "correctAnswer": 2
+      },
+      {
+        "id": 2,
+        "question": "When approaching a school zone, what should you do?",
+        "options": [
+          "Speed up to pass quickly",
+          "Maintain your speed",
+          "Slow down and watch for children",
+          "Ignore it, as it doesn't affect your driving"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 3,
+        "question": "What should you do if your vehicle starts skidding on a wet road?",
+        "options": [
+          "Slam on the brakes",
+          "Steer in the direction you want to go",
+          "Keep accelerating",
+          "Close your eyes"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 4,
+        "question": "What is the legal blood alcohol concentration (BAC) limit for drivers in most states?",
+        "options": ["0.08%", "0.05%", "0.10%", "0.15%"],
+        "correctAnswer": 1
+      },
+      {
+        "id": 5,
+        "question": "When parking uphill with a curb, which way should your wheels be turned?",
+        "options": ["Away from the curb", "Towards the curb", "Parallel to the curb", "It doesn't matter"],
+        "correctAnswer": 1
+      },
+      {
+        "id": 6,
+        "question": "What does a solid white line between lanes of traffic indicate?",
+        "options": ["You can change lanes", "No passing allowed", "Merge into the next lane", "High-occupancy vehicle (HOV) lane"],
+        "correctAnswer": 2
+      },
+      {
+        "id": 7,
+        "question": "When can you proceed through an intersection after a red light turns green?",
+        "options": ["Immediately", "After checking for oncoming traffic", "After counting to five", "When the crosswalk is clear"],
+        "correctAnswer": 2
+      },
+      {
+        "id": 8,
+        "question": "What is the purpose of an acceleration lane on a highway entrance ramp?",
+        "options": ["To slow down before merging", "To park your vehicle", "To speed up and merge with highway traffic", "To exit the highway"],
+        "correctAnswer": 3
+      },
+      {
+        "id": 9,
+        "question": "What does a solid yellow line on your side of the road indicate?",
+        "options": ["You can pass if it's safe", "No passing allowed", "Passing is allowed only during daylight hours", "Passing is allowed for large vehicles"],
+        "correctAnswer": 2
+      },
+      {
+        "id": 10,
+        "question": "If you are involved in a minor crash with no injuries, what should you do?",
+        "options": ["Leave the scene immediately", "Exchange information with the other driver(s)", "Call the police only if it's your fault", "Continue driving without stopping"],
+        "correctAnswer": 2
+      }
+    ]
+  }
+  
